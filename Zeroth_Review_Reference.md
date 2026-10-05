@@ -1,4 +1,4 @@
-# Zeroth Review Presentation — Complete Reference Document
+# Zeroth Review Presentation 
 ## Problem A: Thermal-Aware Power Budgeting on a Chip
 **Team:** Odd Group &nbsp;|&nbsp; **Team members:** Chriss Mathew Rajan (Roll No. 23); Devika S Liju (Roll No. 25); Renjitha Babu (Roll No. 55); Sethuparvathy K J (Roll No. 58); Sharon Thomas (Roll No. 61)
 
