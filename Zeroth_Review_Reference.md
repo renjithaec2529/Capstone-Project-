@@ -189,7 +189,7 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 
 ---
 
-### Student C (Devika S Liju) — Linear Algebra & Discretization Lead (Stage 4)
+### Student C (Devika Liju) — Linear Algebra & Discretization Lead (Stage 4)
 
 **Primary Scope:** FDM Sparse Matrix Assembly → Linear System
 
