@@ -169,8 +169,6 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 - Physical justification for symmetric block placement at (10,10), (10,29), (29,10), (29,29).
 - Write Sections 1 & 2 of the LaTeX report.
 
-**Handoff Output → Student B & C:** Continuous PDE operator + Dirichlet BC formulation.
-
 ---
 
 ### Student B (Sharon Thomas) — Transforms Specialist (Stage 3)
@@ -184,8 +182,6 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 - Prove: Z_th(s)|_(s=0) = ΔT/P = A⁻¹ (relating to the FDM matrix).
 - Verify all symbolic derivations using SymPy `laplace_transform()` and `limit()`.
 - Write Section 3 of the LaTeX report.
-
-**Handoff Output → Student C & D:** Closed-form thermal impedance operator A⁻¹.
 
 ---
 
@@ -202,8 +198,6 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 - Check condition number using `scipy.sparse.linalg.norm` to confirm numerical stability.
 - Write Section 4 of the LaTeX report.
 
-**Handoff Output → Student D:** Validated sparse matrices A and source map B.
-
 ---
 
 ### Student D (Renjitha Babu) — LP Optimization Engineer (Stage 5)
@@ -217,8 +211,6 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 - Run solver with `method='highs'`; verify status code = 0 (optimal).
 - Validate: qj ≥ 0, Σqj ≤ 5 W, extract T_max_LP from optimal solution.
 - Write Section 5 of the LaTeX report.
-
-**Handoff Output → Student E:** Optimal power vector q* and temperature field array T*.
 
 ---
 
@@ -236,8 +228,6 @@ LaTeX template              ← 6-page departmental report (amsmath, pgfplots, b
 - Initialize and maintain Git repository; write `README.md` with setup instructions.
 - Finalize and compile the 6-page LaTeX project report.
 - Coordinate pre-submission pre-flight checklist verification.
-
-**Handoff Output → Review Panel:** Complete reproducible Git repository + final LaTeX report.
 
 ---
 
