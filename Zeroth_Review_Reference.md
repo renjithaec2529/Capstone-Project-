@@ -274,5 +274,41 @@ T_peak (LP Optimal)         ≈ 327 K
 
 Minimum guaranteed reduction: ≥ 5 K (verified by LP optimality conditions)
 ```
+---
 
+## 10. References
+
+### A. Heat Transfer and Vector Calculus (Stages 1 & 2)
+1. F. P. Incropera, D. P. DeWitt, T. L. Bergman, A. S. Lavine, *Fundamentals of Heat and Mass Transfer*, Wiley. (Fourier's law, heat conduction equation, thermal conductivity of silicon.)
+2. Y. A. Çengel, A. J. Ghajar, *Heat and Mass Transfer: Fundamentals and Applications*, McGraw-Hill.
+3. J. Stewart, *Calculus: Early Transcendentals*, Cengage. (Gradient, divergence, divergence theorem.)
+
+### B. Partial Differential Equations and Laplace Transforms (Stages 2 & 3)
+4. E. Kreyszig, *Advanced Engineering Mathematics*, Wiley. (Poisson/Laplace equations, Laplace transforms, PDE classification.)
+5. L. C. Evans, *Partial Differential Equations*, American Mathematical Society. (Elliptic PDEs, existence and uniqueness of solutions.)
+6. H. S. Carslaw, J. C. Jaeger, *Conduction of Heat in Solids*, Oxford University Press. (Classical reference for transient and steady-state conduction.)
+
+### C. Finite Difference Method and Numerical Linear Algebra (Stage 4)
+7. R. J. LeVeque, *Finite Difference Methods for Ordinary and Partial Differential Equations*, SIAM, 2007. (Five-point Laplacian stencil, Dirichlet boundary conditions.)
+8. G. Strang, *Computational Science and Engineering*, Wellesley-Cambridge Press, 2007. (Discrete Laplacian, sparse block-tridiagonal systems.)
+9. Y. Saad, *Iterative Methods for Sparse Linear Systems*, SIAM, 2003.
+
+### D. Linear and Convex Optimization (Stage 5)
+10. S. Boyd, L. Vandenberghe, *Convex Optimization*, Cambridge University Press, 2004. (Epigraph form, minimax problems, LP.)
+11. D. Bertsimas, J. N. Tsitsiklis, *Introduction to Linear Optimization*, Athena Scientific, 1997.
+12. Q. Huangfu, J. A. J. Hall, "Parallelizing the dual revised simplex method," *Mathematical Programming Computation*, vol. 10, pp. 119–142, 2018. (The algorithm behind the HiGHS dual simplex solver.)
+13. HiGHS: high-performance open-source LP/MIP solver. https://highs.dev
+
+### E. Thermal Management of Chips (Motivation)
+14. K. Skadron et al., "Temperature-aware microarchitecture," *Proc. 30th Int. Symposium on Computer Architecture (ISCA)*, 2003.
+15. W. Huang et al., "HotSpot: A compact thermal modeling methodology for early-stage VLSI design," *IEEE Trans. on Very Large Scale Integration (VLSI) Systems*, vol. 14, no. 5, pp. 501–513, 2006.
+16. J. R. Black, "Electromigration: A brief survey and some recent results," *IEEE Trans. on Electron Devices*, vol. 16, no. 4, pp. 338–347, 1969.
+
+### F. Software and Libraries
+17. P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python," *Nature Methods*, vol. 17, pp. 261–272, 2020.
+18. C. R. Harris et al., "Array programming with NumPy," *Nature*, vol. 585, pp. 357–362, 2020.
+19. A. Meurer et al., "SymPy: symbolic computing in Python," *PeerJ Computer Science*, 3:e103, 2017.
+20. J. D. Hunter, "Matplotlib: A 2D graphics environment," *Computing in Science & Engineering*, vol. 9, no. 3, pp. 90–95, 2007.
+21. SciPy documentation: `scipy.optimize.linprog`. https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.linprog.html
+22. SciPy documentation: `scipy.sparse` and `scipy.sparse.linalg`. https://docs.scipy.org/doc/scipy/reference/sparse.html
 ---
