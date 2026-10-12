@@ -27,8 +27,7 @@ Capstone for *PDEs, Transforms and Optimization Techniques* · AY 2025–2026 ·
 8. [Limitations](#limitations)
 9. [Future Work](#future-work)
 10. [References](#references)
-11. [Demonstration](#demo)
-12. [Acknowledgements](#acknowledgements)
+11. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -228,7 +227,7 @@ Two points worth keeping in mind:
 <a id="acknowledgements"></a>
 
 ## Demonstration
-`https://drive.google.com/file/d/1jTGvtNQACHbnv7NXUcHKyEOlhO14eXWr/view?usp=drivesdk`
+(https://drive.google.com/file/d/1jTGvtNQACHbnv7NXUcHKyEOlhO14eXWr/view?usp=drivesdk)
 
 ## Acknowledgements
 
