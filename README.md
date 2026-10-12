@@ -54,9 +54,9 @@ Fourier's law  →  Poisson PDE  →  Finite-difference matrix  →  Minimax lin
 
 | File | Description |
 | :--- | :--- |
-| [`report.pdf`](report.pdf) | Full written report (6 pages): derivation, numerical verification, scenarios, sensitivity and mesh studies, limitations. |
-| [`code.ipynb`](thermal_power_budgeting_expanded_final_.ipynb) | Jupyter notebook with the full numerical pipeline and figures. |
-| [`README.md`](README.md) | This file. |
+| [report.pdf]| Full written report (6 pages): derivation, numerical verification, scenarios, sensitivity and mesh studies, limitations. |
+| [code.ipynb]| Jupyter notebook with the full numerical pipeline and figures. |
+| [README.md]| This file. |
 
 ---
 
